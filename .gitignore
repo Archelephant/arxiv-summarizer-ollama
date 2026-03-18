@@ -1,0 +1,21 @@
+# Credentials
+Ollama_Creds.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints (if you keep .ipynb files)
+.ipynb_checkpoints/
+
+# Virtual environment (if any)
+venv/
+env/
+.env
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Temporary PDFs (optional)
+*.pdf
